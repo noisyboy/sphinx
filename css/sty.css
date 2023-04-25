@@ -15,7 +15,7 @@ body{
     background: black;
   }
   hr{
-    border: 1px solid #ff0505 ;
+    border: 1px solid teal ;
     animation: blink .03s infinite;
   }
   li{
